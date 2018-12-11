@@ -9,8 +9,8 @@ The following packages (i.e. libraries) need to be installed.
 - tweepy
 - json
 
-### The Data
-Enhanced Twitter Archive
+## Data
+### Enhanced Twitter Archive
 The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets, but not everything. One column the archive does contain though: each tweet's text, which I used to extract rating, dog name, and dog "stage" (i.e. doggo, floofer, pupper, and puppo) to make this Twitter archive "enhanced."
 
 ### Additional Data via the Twitter API
